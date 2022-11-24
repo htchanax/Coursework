@@ -1,12 +1,6 @@
-# Name: Hiu Tung Chan (Veronica),Amy Cox
-# Assignment: Final Project - Program of class (shortcakes.py)
-# Date: 5/12/2019
-# Section: 9:30-11:00
-
-# Part1 - Shortcake Program(60%) - defining classes program
-# Description: Mrs.Bake owns a small bakery selling four different types of shortcakes
-# She would like to have a repeatedly-used business system built
-
+# Assignment: Final Project - Program of class (shortcakes.py) - defining class
+# Shortcake Program - defining classes program
+# Description: Mrs.Bake owns a small bakery selling four different types of shortcakes，repeatedly-used business system built
 # Learning Objectives: Creating two classes, applying inheritance and polymorphism
 
 # superclass program
@@ -39,9 +33,6 @@ class Shortcake:
         
     def get_inventory(self):
         return self.__inventory
-
-
-
 
 # subclass program
 
