@@ -1,7 +1,4 @@
-# Name: Hiu Tung Chan (Veronica),Amy Cox
 # Assignment: Final Project - main execution file importing codes from other programs
-# Date: 5/12/2019
-# Section: 9:30-11:00
 
 # Part1 - Shortcake Program(60%) - main execution program, importing shortcakes.py (class defining program)
 # Description: Mrs.Bake owns a small bakery selling four different types of shortcakes
